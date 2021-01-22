@@ -1,7 +1,16 @@
-/*A. Harrison Owen
- *
- *
+/*
+ * A. Harrison Owen
+ * CS 202
+ * Professor: Chris Hartman
+ * 01/21/2021
  */
+
+
+/*
+ * This program writes to a basic text file
+ * and takes input from the user. s
+ */
+
 
 #include <iostream>
 #include <fstream>
